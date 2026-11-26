@@ -1,0 +1,17 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+
+# macOS metadata
+.DS_Store
+
+# Test and packaging artifacts
+.pytest_cache/
+*.egg-info/
+
+# Private live handoff for the next work session
+guide.md
