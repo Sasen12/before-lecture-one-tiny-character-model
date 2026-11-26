@@ -1,5 +1,7 @@
 # Before Lecture One: Tiny Character Model
 
+Follow the video series on [YouTube](https://www.youtube.com/channel/UCWMERaecgKZmrqPUHLqWuow).
+
 A small, from-scratch Python project that grows out of the lessons on tokenizing text, making next-character examples, counting patterns, and generating text. The lessons now connect through one runnable program instead of being separate final demos.
 
 The project currently learns character-to-character patterns from a tiny text file and uses them to generate a continuation. It is an educational statistical model, not a neural network and not a dependable chatbot.
